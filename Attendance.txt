@@ -1,4 +1,4 @@
 Student ID:2213111384
 Fullname (in English):Pumipat Suttimark
-AKA:Pumicha
+AKA:ชาติ
 ClassDetail:String Methods and Defined Method
