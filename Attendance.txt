@@ -1,4 +1,4 @@
 Student ID:2213111384
 Fullname (in English):Pumipat Suttimark
 AKA:ชาติ
-ClassDetail:Class and Object, Array of Object
+ClassDetail: Wrap up Lab Sheet
